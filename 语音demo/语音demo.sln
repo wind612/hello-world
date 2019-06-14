@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "语音demo", "语音demo\语音demo.csproj", "{7243DAC4-BCD8-4586-9990-5410D9A4DC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7243DAC4-BCD8-4586-9990-5410D9A4DC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7243DAC4-BCD8-4586-9990-5410D9A4DC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7243DAC4-BCD8-4586-9990-5410D9A4DC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7243DAC4-BCD8-4586-9990-5410D9A4DC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5777B065-78F4-40AA-B976-839F94D1D795}
+	EndGlobalSection
+EndGlobal
