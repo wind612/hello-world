@@ -21,7 +21,7 @@ namespace SerialPortSample
                 SerialPort sp = new SerialPort("COM1",
                                 9600, Parity.None, 8, StopBits.One);
                 // Timeout after 2 seconds.
-                sp.ReadTimeout = 5000;
+                sp.ReadTimeout = 2000;
                 sp.Open();
 
                 // Read until either the default newline termination string 
